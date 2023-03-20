@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Pacifico&display=swap');
+body {
+  margin: 50px auto;
+  font-family: 'Pacifico', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1 {
+  font-family: 'Pacifico', sans-serif;
+  text-align: center;
+  font-size: 70px;
+  font-weight: 600;
+  color: white;
+}
+
+h3 {
+  display: inline-flex;
+  margin-right: 10px;
+  font-size: 25px;
+  font-weight: 300;
+  font-family: 'Pacifico', sans-serif;
+}
+
+h2 {
+  font-size: 50px;
+  font-family: 'Dancing Script', sans-serif;
+}
