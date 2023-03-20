@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Evelina-karametulova-emloyees/static/css/main.79838067.css",
+    "main.js": "/Evelina-karametulova-emloyees/static/js/main.078ce8c6.js",
+    "static/js/535.352bd5c1.chunk.js": "/Evelina-karametulova-emloyees/static/js/535.352bd5c1.chunk.js",
+    "static/js/498.018dba99.chunk.js": "/Evelina-karametulova-emloyees/static/js/498.018dba99.chunk.js",
+    "static/js/703.58c5aa3e.chunk.js": "/Evelina-karametulova-emloyees/static/js/703.58c5aa3e.chunk.js",
+    "static/js/258.eefb369e.chunk.js": "/Evelina-karametulova-emloyees/static/js/258.eefb369e.chunk.js",
+    "static/js/48.be4c6283.chunk.js": "/Evelina-karametulova-emloyees/static/js/48.be4c6283.chunk.js",
+    "index.html": "/Evelina-karametulova-emloyees/index.html",
+    "main.79838067.css.map": "/Evelina-karametulova-emloyees/static/css/main.79838067.css.map",
+    "main.078ce8c6.js.map": "/Evelina-karametulova-emloyees/static/js/main.078ce8c6.js.map",
+    "535.352bd5c1.chunk.js.map": "/Evelina-karametulova-emloyees/static/js/535.352bd5c1.chunk.js.map",
+    "498.018dba99.chunk.js.map": "/Evelina-karametulova-emloyees/static/js/498.018dba99.chunk.js.map",
+    "703.58c5aa3e.chunk.js.map": "/Evelina-karametulova-emloyees/static/js/703.58c5aa3e.chunk.js.map",
+    "258.eefb369e.chunk.js.map": "/Evelina-karametulova-emloyees/static/js/258.eefb369e.chunk.js.map",
+    "48.be4c6283.chunk.js.map": "/Evelina-karametulova-emloyees/static/js/48.be4c6283.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79838067.css",
+    "static/js/main.078ce8c6.js"
+  ]
+}
